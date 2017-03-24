@@ -1,9 +1,9 @@
 import web, datetime
 
-db_host='localhost'
-db_name='venta'
-db_user='root'
-db_pw=''
+db_host='if0ck476y7axojpg.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+db_name='mtwlpw0hz1rpeaiu'
+db_user='ropsu6imlad3eoo1'
+db_pw='jevk1iol5cqled54'
 
 db=web.database(
   dbn='mysql',
